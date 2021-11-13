@@ -1,2 +1,2 @@
 another file from tutorial
-10 + 2 = 13 이라고 수정
+10 + 2 = 12 이라고 수정
